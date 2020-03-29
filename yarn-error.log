@@ -1,0 +1,26 @@
+Arguments: 
+  /home/lucasfelinto/.nvm/versions/node/v13.11.0/bin/node /usr/share/yarn/bin/yarn.js add expo-cli -g
+
+PATH: 
+  /home/lucasfelinto/.nvm/versions/node/v13.11.0/bin:/home/lucasfelinto/.zinit/polaris/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/ProgramData/chocolatey/bin:/mnt/c/Program Files/Microsoft VS Code/bin:/mnt/c/Users/Zarka/AppData/Local/Microsoft/WindowsApps:/mnt/c/Program Files/heroku/bin
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  13.11.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: ENOENT: no such file or directory, open '/home/lucasfelinto/.cache/yarn/v6/npm-@expo-traveling-fastlane-linux-1.13.1-23d0bedfc085c455c29f2445e7419ce4fadd76b8-integrity/node_modules/@expo/traveling-fastlane-linux/.yarn-metadata.json'
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
